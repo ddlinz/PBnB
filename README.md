@@ -1,9 +1,8 @@
-## PBnB version 0.1 ##\
-# An implementation of the Probabilistic Branch and Bound
-# version based on research published most recently in the paper
-# "Partition-based Approach to Level Set Approximation for Simulation Optimization" by Huang and Zabinsky 2014
-# published in the proceedings of the winter sim
-##
+## PBnB version 0.1 
+An implementation of the Probabilistic Branch and Bound
+version based on research published most recently in the paper
+"Partition-based Approach to Level Set Approximation for Simulation Optimization" by Huang and Zabinsky 2014
+published in the proceedings of the winter sim
 
 ## CONTENTS - main program files
 c_SubRegion.py - the class of subregions that will track the points sampled
