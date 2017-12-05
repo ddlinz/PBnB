@@ -5,14 +5,13 @@
 # published in the proceedings of the winter sim
 ##
 
-## CONTENTS 
-# main program files
+## CONTENTS - main program files
 c_SubRegion.py - the class of subregions that will track the points sampled
 fun_PBnB_supplements - the suplemental functions that branch, sample, and prune the subregions tracked by PBnB
 m_initial_parameters_setting.py - the object that controls the parameters for the PBnB run
 PBnB.py - the main PBnB algorithm loop, along with a default test function 'main'
 
-# test functions 
+## CONTENTS - test functions 
 testfunction_rosenbrock - a test function of the 2D rosenbrock function
 testfunction_shifted  - a test function of the 2D sinusoidal function
 
