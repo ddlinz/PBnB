@@ -20,3 +20,5 @@ In order to modify the function that is run or the optimizer parameters, modify 
 
 ## CITATION INSTRUCTIONS
 Posted software is available for free for research purposes under conditions of fair attribution. Please cite the listed research when using code for future scientific and engineering applications.
+
+Zabinsky, Z. B., and Huang H., “A Partition-based Optimization Approach for Level Set Approximation: Probabilistic Branch and Bound.” An invited book chapter in, Women in Industrial and Systems Engineering: Key Advances and Perspectives on Emerging Topics, Alice E. Smith, editor, Springer Nature, pages 113-158, 2020.
